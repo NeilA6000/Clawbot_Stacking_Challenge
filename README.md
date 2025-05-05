@@ -1,1 +1,2 @@
 # Clawbot_Stacking_Challenge
+In this project, I used a VEX Clawbot and VEXcode to build a block-stacking routine. The robot drives 23 inches forward to grab a block with its claw named the Jaws of Life (Ms Terkper's favourite name) , then drives 46 inches back, which places it 23 inches behind the starting point. It lifts the block, turns around 180 degrees, and drives forward to stack it. Then it turns again and drives back to get the next block. This entire process repeats four times using a for loop, creating a small tower.
